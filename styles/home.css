@@ -52,13 +52,13 @@ header{
 
 .grid3{
     display: grid;
-
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
     justify-content: center;
     grid-template-rows: 1fr;
-    grid-column-gap: 20px;
+    grid-column-gap: 24px;
     transition: transform .3s;
     padding: 5PX;
-    padding-left: 18px;
+    padding-left: 30px;
 }
 
 .grid3 img:hover{
