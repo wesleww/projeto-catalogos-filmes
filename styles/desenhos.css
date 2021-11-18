@@ -1,0 +1,138 @@
+*{
+    background-color: black;
+    
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    padding-bottom: 10px;
+}
+.box1  {
+    padding:0px;
+    margin:0px;
+    background-color: black;
+    list-style:none;
+}
+
+.box1 { display: inline; }
+
+.box1{
+    padding: 2px 10px;
+    display: inline-block;
+
+    /* visual do link */
+    background-color:black;
+    color: aliceblue;
+    text-decoration: wavy;
+    border-bottom:3px solid black;
+}
+
+.box1:hover {
+    background-color:black;
+    color: #6D6D6D;
+    border-bottom:3px solid #EA0000;
+}
+
+.box2  {
+    padding:0px;
+    margin:0px;
+    background-color: black;
+    list-style:none;
+}
+
+.box2 { display: inline; }
+
+.box2{
+    padding: 2px 10px;
+    display: inline-block;
+
+    /* visual do link */
+    background-color:black;
+    color: aliceblue;
+    text-decoration: wavy;
+    border-bottom:3px solid black;
+}
+
+.box2:hover {
+    background-color:black;
+    color: #6D6D6D;
+    border-bottom:3px solid #EA0000;
+}
+
+.box3 {
+    padding:0px;
+    margin:0px;
+    background-color: black;
+    list-style:none;
+}
+
+.box3 { display: inline; }
+
+.box3{
+    padding: 2px 10px;
+    display: inline-block;
+
+    /* visual do link */
+    background-color:black;
+    color: aliceblue;
+    text-decoration: wavy;
+    border-bottom:3px solid black;
+}
+
+.box3:hover {
+    background-color:black;
+    color: #6D6D6D;
+    border-bottom:3px solid #EA0000;
+}
+
+.box4 {
+    padding:0px;
+    margin:0px;
+    background-color: black;
+    list-style:none;
+}
+
+.box4 { display: inline; }
+
+.box4{
+    padding: 2px 10px;
+    display: inline-block;
+
+    /* visual do link */
+    background-color:black;
+    color: aliceblue;
+    text-decoration: wavy;
+    border-bottom:3px solid black;
+}
+
+.box4:hover {
+    background-color:black;
+    color: #6D6D6D;
+    border-bottom:3px solid #EA0000;
+}
+
+.box5 {
+    padding:0px;
+    margin:0px;
+    background-color: black;
+    list-style:none;
+}
+
+.box5 { display: inline; }
+
+.box5{
+    padding: 2px 10px;
+    display: inline-block;
+
+    /* visual do link */
+    background-color:black;
+    color: aliceblue;
+    text-decoration: wavy;
+    border-bottom:3px solid black;
+}
+
+.box5:hover {
+    background-color:black;
+    color: #6D6D6D;
+    border-bottom:3px solid #EA0000;
+}
